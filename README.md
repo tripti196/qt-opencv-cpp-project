@@ -4,7 +4,7 @@ Creating a desktop application in C++ with OpenCV : Segmentation of ultrasound i
 
 # Tools
 
-C++, OpenCV, QtC++, Git, Linux
+C++, OpenCV, QT Creator, Git, Linux
 
 # Author
 
