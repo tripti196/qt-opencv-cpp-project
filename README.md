@@ -1,6 +1,6 @@
 # qt-opencv-cpp-project
 
-Creating a desktop application in C++ with OpenCV : Segmentation of ultrasound images by implementing the watershed algorithm.
+**!!Sorry, this repo code might be outdated!!** Creating a desktop application in C++ with OpenCV : Segmentation of ultrasound images by implementing the watershed algorithm.
 
 # Tools
 
